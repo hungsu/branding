@@ -14,3 +14,6 @@ Illustrations
 
 Artist Robert Dejesus offers illustrations like below for $86USD, in 6 weeks
 <img src="https://i.ebayimg.com/images/g/f9oAAOSwU8hY5q9Z/s-l500.jpg">
+
+Character illustrations are highly memorable
+<img src="https://www.bencodezen.io/bencodezen-logo.png" />
