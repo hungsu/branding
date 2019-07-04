@@ -12,5 +12,5 @@ Observe how when the logo is compared to modern logos as found by searching for 
 
 Illustrations
 
-Artist Robert Dejesus offers illustrations like below for $71USD
+Artist Robert Dejesus offers illustrations like below for $86USD, in 6 weeks
 <img src="https://i.ebayimg.com/images/g/f9oAAOSwU8hY5q9Z/s-l500.jpg">
