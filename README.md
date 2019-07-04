@@ -8,6 +8,10 @@ Observe how when the logo is compared to modern logos as found by searching for 
 
 <img src="https://hung.su/logo-comparison.png" />
 
+Also looks awful as a favicon
+
+<img src="https://hung.su/favicon-example.png" />
+
 ## Mood board
 
 Illustrations
