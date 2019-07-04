@@ -24,6 +24,8 @@ Character illustrations are highly memorable, potentially web performant as SVG,
 
 <img src="https://www.bencodezen.io/bencodezen-logo.png" />
 
+This very attractive illustration suggests 3 dimensions while being entirely 2D and lightweight
+
 <img src="https://cdn.dribbble.com/users/1839419/screenshots/4832498/hi.jpg">
 
 People remember me for being Asian Australian
