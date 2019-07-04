@@ -1,4 +1,4 @@
-# Logo for Hung-Su
+# Branding and style for Hung-Su's property
 
 ## The current state
 
