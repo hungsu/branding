@@ -14,6 +14,10 @@ Also looks awful as a favicon
 
 ## Mood board
 
+Dribbble's logo has a poor silhouette, but a highly recognisable colour
+
+<img src="http://hung.su/dribbble-favicon.png" />
+
 Illustrations
 
 Artist Robert Dejesus offers illustrations like below for $86USD, in 6 weeks
