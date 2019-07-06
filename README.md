@@ -14,6 +14,8 @@ Also looks awful as a favicon
 
 ## Mood board
 
+https://www.youtube.com/watch?v=7wlM_uOhKH4&feature=youtu.be
+
 Dribbble's logo has a poor silhouette, but a highly recognisable colour
 
 <img src="http://hung.su/dribbble-favicon.png" />
