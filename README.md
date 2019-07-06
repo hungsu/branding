@@ -35,3 +35,5 @@ This very attractive illustration suggests 3 dimensions while being entirely 2D 
 People remember me for being Asian Australian
 
 <img src="https://cdn.dribbble.com/users/74401/screenshots/3706185/wombat-cartoony.png">
+
+<img src="https://ctl.s6img.com/society6/img/_wr_-zXF13wsMLHPybCKmdn7N64/w_1500/stickers/3x3/transparent/lifestyle/~artwork,bg_FFFFFFFF,opthreshold_50p,fw_1800,fh_1800,fx_233,fy_119,iw_1332,ih_1560/s6-original-art-uploads/society6/uploads/misc/b252a995d7294cc98ac6866f2ab47edb/~~/cat-yin-yang878452-stickers.jpg" />
